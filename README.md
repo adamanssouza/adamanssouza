@@ -1,7 +1,7 @@
 ## Olá 👋, eu sou o Adamans
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Java | Angular | Python | PHP  
+💻 Angular | Python | PHP  
 📍 Brasil
 
 ---
